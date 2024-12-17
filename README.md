@@ -16,6 +16,4 @@ I'm a self-taught backend developer from bavaria
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ardaxyz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## :globe_with_meridians: Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/848248238866825246) 
